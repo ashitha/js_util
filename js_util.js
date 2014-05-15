@@ -1,1 +1,4 @@
-alert('efe');
+console.log = function(){
+   alert('weff'); 
+};
+
